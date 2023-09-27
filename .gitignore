@@ -1,3 +1,12 @@
+# large files
+meta_checkpoints/*
+checkpoints/*
+datasets/
+dataset/
+
+# Mac OS
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
